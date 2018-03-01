@@ -18,6 +18,7 @@ a {
     background: #037851;
     color: white;
     width: 100%;
+    border-radius: 0px;
 }
 
 .nav {
@@ -38,11 +39,13 @@ a {
     color: white;
     text-align: center;
     margin-top: 15px;
+    overflow: hidden;
 }
 
 .sub-footer {
     color: black;
     background: rgb(63, 63, 63);
+
 }
 
 .card {
