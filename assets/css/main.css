@@ -2,10 +2,26 @@ body {
     background: #f3f3f3;
 }
 
+hr {
+    height: 5px;
+}
+
+a {
+    color: white;
+}
+
+.nav-link {
+    font-size: 24px;
+}
+
 .jumbotron {
     background: #037851;
     color: white;
     width: 100%;
+}
+
+.nav {
+    margin-bottom: -50px;
 }
 
 .container {
@@ -24,13 +40,19 @@ body {
     margin-top: 15px;
 }
 
+.sub-footer {
+    color: black;
+    background: rgb(63, 63, 63);
+}
+
 .card {
-    margin: 5px;
+    margin-bottom: 10px;
     padding: 5px;
 }
 
+.infoBox {
+    margin-top: 25px
+}
+
 sidebar {
-    border-style: solid;
-    border-color: green;
-    border-width: 10px;
 }
