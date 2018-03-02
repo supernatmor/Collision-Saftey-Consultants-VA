@@ -57,5 +57,14 @@ a {
     margin-top: 25px
 }
 
+.aboutText {
+    line-height: 36px;
+    font-size: 18px;
+}
+
+.service {
+    float: left;
+}
+
 sidebar {
 }
