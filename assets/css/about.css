@@ -10,4 +10,10 @@ body {
 .aboutText {
     line-height: 36px;
     font-size: 18px;
+    color: white;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
 }
