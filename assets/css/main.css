@@ -41,6 +41,8 @@ a {
 .nav {
     background: #037851;
     margin-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .container {
